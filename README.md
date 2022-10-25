@@ -3,7 +3,7 @@ Learn Hashicorp products
 
 URL: https://learn.hashicorp.com/
 
-**Terraform**
+(**Terraform**)[https://github.com/dehvCurtis/Hashicorp-Learn/tree/main/terraform]
 Infrastructure automation to provision and manage any cloud service
  - terraform
 
